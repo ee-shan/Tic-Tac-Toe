@@ -1,7 +1,6 @@
 # Tic-Tac-Toe
 
-* Basic GUI Project
+* Basic CSE 416 Project
 * Tic Tac Toe Game
-* For CSE 416
 
 * Learning and Testing Git
